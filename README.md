@@ -8,6 +8,6 @@ See You out there
                   { ~ _ ~ }
                     *   *
                      { }
-                    / | \:key:
+                    / | \🔑
                       |
                      / \
